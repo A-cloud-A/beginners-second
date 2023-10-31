@@ -23,9 +23,9 @@
     left: 250px;
 }
 #mouth{
-    height: 75px;
-    width: 200px;
-    background-color: brown;
+    height: 70px;
+    width: 180px;
+    background-color: rgb(255, 0, 0);
     border-radius: 0px 0px 50px 50px;
     position: absolute;
     top: 250px;
