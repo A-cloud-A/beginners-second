@@ -32,3 +32,13 @@
     left: 100px;
     display: inline-block;
 }
+#eye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    display: inline-block;
+}
